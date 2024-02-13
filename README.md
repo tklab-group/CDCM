@@ -1,1 +1,5 @@
 # CDCM
+
+Continuous Dockerﬁle Configuration Management(CDCM)はDockerを用いた開発プロジェクトにおける、Dockerfileのビルド再現性とビルド可能性の両立を目的とした構成管理プロセスです。
+
+TBD
