@@ -1,0 +1,6 @@
+[submodule "forge"]
+	path = forge
+	url = https://github.com/tklab-group/forge
+[submodule "forge-action"]
+	path = forge-action
+	url = https://github.com/tklab-group/forge-action
