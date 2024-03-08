@@ -6,6 +6,8 @@ CDCMを支援するツールはこちらで公開しています。
 - [forge](https://github.com/tklab-group/forge)
 - [forge-action](https://github.com/tklab-group/forge-action)([GitHub Marketplace](https://github.com/marketplace/actions/forge-action))
 
+![](./figs/CDCM-overview.png)
+
 ## 背景
 
 Dockerfileはベースイメージや、パッケージ管理ツール(e.g. apt)で取得するパッケージといった外部依存を持つ。
